@@ -1,5 +1,6 @@
 # AI-ML-Assignment-5-Simple-RAG  
 **Author:** Yisakor Mirany 
+
 **Embedding Model:** all-MiniLM-L6-v2  
 **LLM:** google/flan-t5-small  
 **Vector Store:** FAISS  
